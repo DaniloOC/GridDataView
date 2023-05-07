@@ -2,6 +2,7 @@
   "name": "grid-data-view",
   "version": "0.0.1",
   "description": "Mais 1 grid view para react",
+  "homepage": "https://github.com/DaniloOC/grid-data-view",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "author": "D.O. Cruz",
